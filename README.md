@@ -33,12 +33,3 @@ In this project, I focused on reproducing the mathematical structure of the mode
 ### Simulated GBM Paths
 *(to be inserted)*  
 ![Example simulation](figures/animation.gif)
-
----
-
-## How to Run
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/Black_Scholes_project.git
-   cd Black_Scholes_project
