@@ -5,7 +5,7 @@ It was developed as a short project, but it sparked my curiosity and I plan to e
 
 ---
 
-## 📖 Context
+## Context
 
 The Black-Scholes model is a cornerstone of modern financial mathematics.  
 It relies on several key assumptions:
@@ -19,7 +19,7 @@ In this project, I focused on reproducing the mathematical structure of the mode
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Simulation of the **Geometric Brownian Motion** underlying asset price paths.  
 - Calculation of volatility from **historical asset prices**.  
@@ -28,7 +28,7 @@ In this project, I focused on reproducing the mathematical structure of the mode
 
 ---
 
-## 📊 Example Outputs
+## Example Outputs
 
 ### Simulated GBM Paths
 *(to be inserted)*  
@@ -36,7 +36,7 @@ In this project, I focused on reproducing the mathematical structure of the mode
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository:  
    ```bash
