@@ -31,5 +31,4 @@ In this project, I focused on reproducing the mathematical structure of the mode
 ## Example Outputs
 
 ### Simulated GBM Paths
-*(to be inserted)*  
 ![Example simulation](figures/animation.gif)
