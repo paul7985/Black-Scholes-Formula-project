@@ -4,7 +4,7 @@ This folder contains two main scripts illustrating the evolution of a commodity 
 
 ---
 
-## 1. `black_scholes_simulation.py`
+## 1. `BS_GMB_movie.py`
 
 ### Purpose  
 Simulates multiple possible trajectories of pork prices based on real data, estimates the bank’s cost (European call option), and generates an animation of the evolutions.  
@@ -23,7 +23,7 @@ Simulates multiple possible trajectories of pork prices based on real data, esti
 
 ---
 
-## 2. `calcul_alpha.py`
+## 2. `alpha_calculation.py`
 
 ### Purpose  
 Illustrates volatility and price evolution using a simple daily random step of ±α.  
